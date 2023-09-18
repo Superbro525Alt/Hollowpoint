@@ -8,4 +8,28 @@ Download the latest release and run `setup.exe`. This will install the game. Onc
 
 ## Gameplay
 
-`WASD`to move and `LeftMouseClick` to shoot. `B` to buy when in buy phase and `ESC` to disconnect and change settings.
+<kbd>W</kbd> - Move Forward
+
+
+<kbd>A</kbd> - Move Left
+
+
+<kbd>S</kbd> - Move Down
+
+
+<kbd>D</kbd> - Move Right
+
+
+
+<kbd>B</kbd> - Open buy menu
+
+<kbd>ESC</kbd> - Open pause menu
+
+
+
+<kbd>1</kbd> - Equipt primary gun
+
+<kbd>2</kbd> - Equipt secondary gun
+
+
+<kbd>Left Mouse Click</kbd> - Shoot
